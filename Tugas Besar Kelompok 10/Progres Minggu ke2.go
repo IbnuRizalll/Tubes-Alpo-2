@@ -1,3 +1,8 @@
+#Ibnu Rizal Mutaqim 2311102067
+#Rizky Perlinta Sembiring 2311102061
+#Abda Firas Rahman 2311102049
+
+
 package main
 
 import "fmt"
